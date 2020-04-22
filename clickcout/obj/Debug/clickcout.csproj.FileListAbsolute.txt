@@ -1,0 +1,10 @@
+D:\code\clickcount\clickcout\bin\Debug\clickcout.exe.config
+D:\code\clickcount\clickcout\bin\Debug\clickcout.exe
+D:\code\clickcount\clickcout\bin\Debug\clickcout.pdb
+D:\code\clickcount\clickcout\obj\Debug\clickcout.csprojAssemblyReference.cache
+D:\code\clickcount\clickcout\obj\Debug\clickcout.Form1.resources
+D:\code\clickcount\clickcout\obj\Debug\clickcout.Properties.Resources.resources
+D:\code\clickcount\clickcout\obj\Debug\clickcout.csproj.GenerateResource.cache
+D:\code\clickcount\clickcout\obj\Debug\clickcout.csproj.CoreCompileInputs.cache
+D:\code\clickcount\clickcout\obj\Debug\clickcout.exe
+D:\code\clickcount\clickcout\obj\Debug\clickcout.pdb
